@@ -96,4 +96,8 @@ If you'd like to contribute to the project, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature-name`.
-3. Make your cha
+cense
+This project is licensed under the MIT License. Feel free to adapt, modify, and use the code in accordance with the terms specified in the license.
+
+Acknowledgements
+Thank you for exploring ConnectX College Intranet! We appreciate your interest and contributions. If you have any suggestions or feedback, please feel free to reach out.
