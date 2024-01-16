@@ -1,6 +1,40 @@
 # ConnectX College Intranet
 
-Welcome to ConnectX College Intranet, a centralized platform designed to facilitate seamless communication and resource sharing among students, faculty, and administrators.
+ConnectX College Intranet is a comprehensive and centralized platform aimed at fostering seamless communication and resource sharing within an educational institution. This web-based application is designed to cater to the needs of students, faculty, and administrators, providing a unified hub for information exchange and collaboration.
+
+Features
+Admin Module: Dedicated features and tools for administrators to manage and oversee various aspects of the college intranet.
+
+Student Module: Tailored functionalities to meet the requirements of students, enabling them to access resources, announcements, and interact with peers.
+
+Teacher Module: Tools and capabilities for teachers to efficiently manage coursework, communicate with students, and contribute to the collaborative learning environment.
+
+Login Module: Secure login mechanisms to ensure authorized access to the intranet, with user authentication and validation.
+
+Database Integration: Seamless integration with a database for efficient storage and retrieval of information, ensuring data consistency and reliability.
+
+File Uploads: A designated directory for student uploads, facilitating the submission and sharing of relevant documents.
+
+Getting Started
+Clone the Repository:
+
+bash
+Copy code
+git clone https://github.com/your-username/ConnectX-College-Intranet.git
+cd ConnectX-College-Intranet
+Explore the Modules:
+
+Navigate through the various modules such as admin, student, teacher, and login to understand the different functionalities.
+Database Setup:
+
+Check the database directory for files related to database setup and queries.
+Contribute:
+
+If you'd like to contribute to the project, feel free to fork the repository, create a new branch, make your changes, and submit a pull request.
+Technology Stack
+Frontend: HTML, CSS, Bootstrap
+Backend: PHP
+Database: MySQL
 
 ## Project Structure
 
